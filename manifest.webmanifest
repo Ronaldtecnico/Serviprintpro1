@@ -1,0 +1,38 @@
+{
+  "id": "./",
+  "name": "ServiPrint Pro",
+  "short_name": "ServiPrint",
+  "description": "Gestión de equipos, órdenes de servicio, presupuestos, recibos y cobros para técnicos de impresoras y fotocopiadoras. Funciona sin internet.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b131e",
+  "theme_color": "#0b131e",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
